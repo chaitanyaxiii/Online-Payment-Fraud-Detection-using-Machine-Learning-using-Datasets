@@ -1,11 +1,4 @@
- 200Character GitHub Description:  
-"Online Payment Fraud Detection using ML: An advanced ML project leveraging Python, Logistic Regression, and libraries like NumPy, Pandas, and Scikitlearn to detect fraudulent transactions."
-
-
-
- README File Content  
-
- Online Payment Fraud Detection Using Machine Learning  
+Online Payment Fraud Detection Using Machine Learning  
 
  Project Overview  
 Online payment fraud has become a significant concern with the growing popularity of digital transactions. This project aims to detect fraudulent transactions by employing machine learning techniques. By leveraging a labeled dataset of past transactions, the model identifies patterns and anomalies associated with fraud. The project emphasizes accuracy, scalability, and realtime applicability to provide a robust fraud detection system for financial platforms.
